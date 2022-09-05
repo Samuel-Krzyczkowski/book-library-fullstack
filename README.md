@@ -1,6 +1,6 @@
 # Book Library
-This is a simple library app made with Django & React.
-There's still a lot to implement. But the base is there and I'm quite happy with the simple design.
+This is a simple library app made with Django & React. 
+There's still a lot to implement.  But the base is there and I'm quite happy with the simple design.
 
 ## Tools
 
