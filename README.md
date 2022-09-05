@@ -13,7 +13,7 @@ This is a simple library app made with Django & React.
 
 # How to Run Project
 
-## Download Codes
+## Clon repo
 
 ```
 git clone https://github.com/samekwerty/Book-Library.git
